@@ -6,10 +6,7 @@ Integrated baseball game scoring and live streaming
 
 ## Features
 
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
+- TODO
 
   
 ## Installation 
@@ -26,13 +23,7 @@ Insert gif or link to demo
   
 ## Usage/Examples
 
-```javascript
-import Component from 'my-project'
-
-function App() {
-  return <Component />
-}
-```
+- TODO
 
   
 ## Documentation
