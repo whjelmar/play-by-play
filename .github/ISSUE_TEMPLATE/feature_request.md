@@ -1,8 +1,7 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: "“In order to <achieve some business value>, As a <stakeholder type> I want
-  <some new system feature>; where as currently <descibe the current behavior>"
+title: "short feature title"
 labels: enhancement
 assignees: whjelmar
 
@@ -13,8 +12,7 @@ A clear and concise description of what the problem is. Ex. I'm always frustrate
 
 **Describe the solution you'd like**
 A clear and concise description of what you want to happen, described as a user story:
-In order to <achieve some business value>, As a <stakeholder type> I want <some new system feature>; where as currently <descibe the current behavior> 
-
+In order to <achieve some business value>, as a <stakeholder type> I want <some new system feature>; where as currently, <descibe the current behavior> 
 
 **Describe alternatives you've considered**
 A clear and concise description of any alternative solutions or features you've considered.
