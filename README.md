@@ -47,5 +47,5 @@ service over a network, the complete source code of the modified version must be
 
 ## Support
 
-For support, email walter@hjelmar.com or join our Slack channel. <to be created>
+For support, email walter@hjelmar.com or join our Slack channel. __to be created__
 
