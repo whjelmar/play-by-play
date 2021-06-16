@@ -4,11 +4,6 @@
 Integrated baseball game scoring and live streaming
 
 
-## Authors
-
-- [@whjelmar](https://www.github.com/whjelmar)
-
-  
 ## Features
 
 - Light/dark mode toggle
@@ -45,6 +40,11 @@ function App() {
 [Documentation](https://linktodocumentation)
 
  
+## Authors
+
+- [@whjelmar](https://www.github.com/whjelmar)
+
+  
  ## License
 
 Play-by-play is licensed under the GNU Affero General Public License v3.0
