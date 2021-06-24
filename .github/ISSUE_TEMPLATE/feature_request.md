@@ -14,6 +14,7 @@ A clear and concise description of what the problem is. Ex. I'm always frustrate
 ## Describe the solution you'd like
 
 A clear and concise description of what you want to happen, described as a user story:
+
 *In order to **achieve some business value**, as a **stakeholder type** I want **some new system feature**; whereas currently, **descibe the current behavior***
 
 ## Describe alternatives you've considered
